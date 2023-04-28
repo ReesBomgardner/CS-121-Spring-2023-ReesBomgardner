@@ -8,7 +8,7 @@
 |              |                 |             |
 |    [Week 7](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities)    |    [Activity 15](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities/Activity15)  |             |
 |    [Week 7](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities)    |    [Activity 16](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities/Activity16)  |             |
-|    [Week 7](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities    |    [Activity 17]()  |             |
+|    [Week 7](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%207%20Activities)    |    [Activity 17]()  |             |
 |              |                 |             |
 |    [Week 8](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%208%20Activities)    |    [Activity 19](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%208%20Activities/Activity19/Activity19)  |             |
 |    [Week 8](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%208%20Activities)    |    [Activity 20](https://github.com/ReesBomgardner/CS-121-Spring-2023-ReesBomgardner/tree/main/Activities/Week%208%20Activities/Activity20/Activity20)  |             |
